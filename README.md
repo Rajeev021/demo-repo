@@ -1,3 +1,3 @@
 # Demo
 
-git practise
+git practise with commits
